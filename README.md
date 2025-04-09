@@ -7,9 +7,6 @@ Este repositório contém projetos de front-end desenvolvidos seguindo o caminho
 - Single-Page CV
 
 ---
+https://github.com/paulosavaris/roadmap.sh-projetos/tree/main/Frontend/01-SinglePageCV
 
-## Visualizar Projetos
 
-Clique em qualquer uma das imagens abaixo para acessar o README e a demonstração ao vivo de cada projeto.
-
-- [Currículo em Página Única (Single Page CV)](./single-page-cv)
